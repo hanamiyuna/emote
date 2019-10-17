@@ -1,0 +1,29 @@
+{
+  "name": "emote",
+  "version": "1.0.0",
+  "description": "Dynamic emotion and mental model calculation library for Node.js",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanamiyuna/emote.git"
+  },
+  "keywords": [
+    "emotion-prediction",
+    "emotion-model",
+    "mental-model",
+    "wolfram",
+    "wolfram-mathematica"
+  ],
+  "author": "Yuna Hanami",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/hanamiyuna/emote/issues"
+  },
+  "homepage": "https://github.com/hanamiyuna/emote#readme"
+}
